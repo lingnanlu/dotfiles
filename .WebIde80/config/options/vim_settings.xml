@@ -1,0 +1,51 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="Z:/smartcloth/app/Http/Controllers/UserInfoController.php" timestamp="1438321014014">
+        <mark key="[" line="42" column="25" />
+      </file>
+      <file name="Z:/smartcloth/resources/views/welcome.blade.php" timestamp="1438320711765">
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+        <mark key="[" line="5" column="8" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICBodG1sLCBib2R5IHsKICAgICAgICAgICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgYm9keSB7CiAgICAgICAgICAgICAgICBtYXJnaW46IDA7CiAgICAgICAgICAgICAgICBwYWRkaW5nOiAwOwogICAgICAgICAgICAgICAgd2lkdGg6IDEwMCU7CiAgICAgICAgICAgICAgICBkaXNwbGF5OiB0YWJsZTsKICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiAxMDA7CiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogJ0xhdG8nOwogICAgICAgICAgICB9CgogICAgICAgICAgICAuY29udGFpbmVyIHsKICAgICAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICAgICAgICAgIGRpc3BsYXk6IHRhYmxlLWNlbGw7CiAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICB9CgogICAgICAgICAgICAuY29udGVudCB7CiAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC50aXRsZSB7CiAgICAgICAgICAgICA=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PHN0eWxlPgogICAgICAgICAgICBodG1sLCBib2R5IHsKICAgICAgICAgICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PHN0eWxlPgogICAgICAgICAgICBodG1sLCBib2R5IHsKICAgICAgICAgICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">PHN0eWxlPgogICAgICAgICAgICBodG1sLCBib2R5IHsKICAgICAgICAgICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

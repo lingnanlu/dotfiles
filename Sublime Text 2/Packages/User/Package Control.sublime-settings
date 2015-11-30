@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CSS Format",
+		"IMESupport",
+		"JsFormat",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Monokai Extended",
+		"Package Control",
+		"Theme - Flatland",
+		"Theme - Soda"
+	]
+}

@@ -1,0 +1,40 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>slick</find>
+      <find>bootstrap</find>
+      <find>response</find>
+      <find>Modernizr</find>
+      <find>img-responsive</find>
+      <find>slide</find>
+      <find>header</find>
+      <find>slide-item</find>
+      <find>headline-support</find>
+      <find>headline</find>
+      <find>when_where</find>
+      <find>btn-xl</find>
+      <find>header-wrap</find>
+      <find>flexslider</find>
+      <find>slides</find>
+      <find>slider-bg</find>
+      <find>.header</find>
+      <find>stat</find>
+      <find>ac</find>
+      <find>accommodation</find>
+      <find>font-awesome</find>
+      <find>speaker</find>
+      <find>back</find>
+      <find>background-op</find>
+      <find>status_id</find>
+      <find>countdown</find>
+      <find>Countdown</find>
+      <find>first_main_chart_div</find>
+      <find>bpm_analysis_chart</find>
+      <find>created_at</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>attendee</replace>
+      <replace>created</replace>
+    </replaceStrings>
+  </component>
+</application>

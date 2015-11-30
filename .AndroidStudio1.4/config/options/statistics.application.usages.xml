@@ -1,0 +1,147 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type-temp">
+      <project id="HelloWorld" values="GradleRunConfiguration" collectionTime="1447742216995" />
+    </group>
+    <group name="language-level">
+      <project id="Minimal-Todo" values="JDK_1_7" collectionTime="1448851832367" />
+      <project id="Event-Bus-Architecture" values="JDK_1_7" collectionTime="1448588822488" />
+      <project id="YanZhi" values="JDK_1_7" collectionTime="1447672805346" />
+      <project id="FragmentBasics" values="JDK_1_7" collectionTime="1447638350911" />
+      <project id="Timber-master" values="JDK_1_7" collectionTime="1448009735762" />
+      <project id="MultiModuleTest" values="JDK_1_7,JDK_1_8" collectionTime="1447983221409" />
+      <project id="WeChat For Android Studio" values="JDK_1_6" collectionTime="1448011054446" />
+      <project id="mini-todo-learn" values="JDK_1_7" collectionTime="1448891070120" />
+      <project id="JamsMusicPlayer" values="JDK_1_6" collectionTime="1448010433176" />
+      <project id="android-UniversalMusicPlayer" values="JDK_1_7" collectionTime="1448011204452" />
+      <project id="Toodle" values="JDK_1_7" collectionTime="1448365492515" />
+      <project id="mr-mantou-android" values="JDK_1_8,JDK_1_6" collectionTime="1448003105035" />
+      <project id="Meizhi" values="JDK_1_7,JDK_1_8" collectionTime="1448013171860" />
+      <project id="HelloWorld" values="JDK_1_7" collectionTime="1447742217095" />
+      <project id="Fragments" values="JDK_1_6" collectionTime="1448013449684" />
+      <project id="weiciyuan-0.50" values="JDK_1_6" collectionTime="1447742309622" />
+      <project id="ActivityLifeCycle" values="JDK_1_7" collectionTime="1447509219901" />
+      <project id="SimplifyReader" values="JDK_1_7,JDK_1_8" collectionTime="1448012542337" />
+      <project id="36krReader" values="JDK_1_7" collectionTime="1448013763074" />
+      <project id="Seashell-app" values="JDK_1_6" collectionTime="1448012036943" />
+      <project id="v2ex-android-master" values="JDK_1_7" collectionTime="1447991602631" />
+    </group>
+    <group name="file-type">
+      <project id="Minimal-Todo" values="UNKNOWN,PLAIN_TEXT,XML,JAVA,Groovy,Properties,ProGuard File,AIDL,IDEA_MODULE,Images,ARCHIVE" collectionTime="1448851832364" />
+      <project id="Event-Bus-Architecture" values="Properties,ProGuard File,AIDL,Groovy,PLAIN_TEXT,IDEA_MODULE,XML,ARCHIVE,JAVA,Images,UNKNOWN" collectionTime="1448588822486" />
+      <project id="YanZhi" values="Allocations,AIDL,Properties,XML,Images,ProGuard File,PLAIN_TEXT,IDEA_MODULE,JAVA,Groovy,UNKNOWN,ARCHIVE" collectionTime="1447672801685" />
+      <project id="FragmentBasics" values="Properties,PLAIN_TEXT,XML,ProGuard File,AIDL,UNKNOWN,IDEA_MODULE,JAVA,Groovy,Images,ARCHIVE" collectionTime="1447638350910" />
+      <project id="Timber-master" values="JAVA,XML,Properties,PLAIN_TEXT,Images,Groovy,IDEA_MODULE,ProGuard File,ARCHIVE,UNKNOWN,AIDL" collectionTime="1448009735723" />
+      <project id="MultiModuleTest" values="ARCHIVE,Properties,UNKNOWN,AIDL,JAVA,XML,IDEA_MODULE,Images,Groovy,PLAIN_TEXT,ProGuard File" collectionTime="1447983221406" />
+      <project id="WeChat For Android Studio" values="UNKNOWN,Images,Properties,IDEA_MODULE,JAVA,PLAIN_TEXT,Groovy,ARCHIVE,XML" collectionTime="1448011054431" />
+      <project id="mini-todo-learn" values="XML,Properties,AIDL,Images,UNKNOWN,ProGuard File,Groovy,JAVA,PLAIN_TEXT,ARCHIVE,IDEA_MODULE" collectionTime="1448891070091" />
+      <project id="JamsMusicPlayer" values="PLAIN_TEXT,Properties,JAVA,ARCHIVE,AIDL,IDEA_MODULE,ProGuard File,UNKNOWN,Groovy,Images,XML" collectionTime="1448010433175" />
+      <project id="android-UniversalMusicPlayer" values="JAVA,PLAIN_TEXT,Properties,XML,AIDL,UNKNOWN,Groovy,Images,ARCHIVE,ProGuard File,CSS,IDEA_MODULE" collectionTime="1448011204449" />
+      <project id="Toodle" values="Properties,XML,AIDL,JAVA,ARCHIVE,UNKNOWN,Groovy,Images,ProGuard File,IDEA_MODULE,PLAIN_TEXT" collectionTime="1448365492513" />
+      <project id="mr-mantou-android" values="ProGuard File,Properties,JAVA,JSON,UNKNOWN,Groovy,ARCHIVE,XML,PLAIN_TEXT,IDEA_MODULE,Images,AIDL" collectionTime="1448003105031" />
+      <project id="Meizhi" values="IDEA_MODULE,CSS,Images,PLAIN_TEXT,XML,Groovy,AIDL,Properties,ProGuard File,ARCHIVE,JAVA,UNKNOWN" collectionTime="1448013171858" />
+      <project id="HelloWorld" values="UNKNOWN,AIDL,Properties,ARCHIVE,PLAIN_TEXT,JAVA,Groovy,IDEA_MODULE,ProGuard File,Images,XML" collectionTime="1447742217093" />
+      <project id="Fragments" values="PLAIN_TEXT,JAVA,Images,UNKNOWN,XML,Properties,Groovy,IDEA_MODULE,ARCHIVE" collectionTime="1448013449681" />
+      <project id="weiciyuan-0.50" values="PLAIN_TEXT,Properties,UNKNOWN,Groovy,AIDL,JAVA,ARCHIVE,XML,Images,HTML,IDEA_MODULE" collectionTime="1447742309621" />
+      <project id="ActivityLifeCycle" values="ARCHIVE,ProGuard File,JAVA,UNKNOWN,PLAIN_TEXT,AIDL,IDEA_MODULE,Groovy,Images,XML,Properties" collectionTime="1447509219900" />
+      <project id="SimplifyReader" values="ProGuard File,PLAIN_TEXT,JAVA,XML,AIDL,ARCHIVE,IDEA_MODULE,Properties,Images,HTML,UNKNOWN,Groovy" collectionTime="1448012542333" />
+      <project id="36krReader" values="XML,AIDL,UNKNOWN,Images,Properties,IDEA_MODULE,Groovy,PLAIN_TEXT,ProGuard File,ARCHIVE,JAVA" collectionTime="1448013763072" />
+      <project id="Seashell-app" values="ARCHIVE,JAVA,AIDL,UNKNOWN,Images,XML,ProGuard File,Properties,Groovy,PLAIN_TEXT,IDEA_MODULE" collectionTime="1448012036942" />
+      <project id="v2ex-android-master" values="Images,Properties,Groovy,UNKNOWN,AIDL,ARCHIVE,IDEA_MODULE,PLAIN_TEXT,ProGuard File,XML,JAVA" collectionTime="1447991602629" />
+    </group>
+    <group name="vcs">
+      <project id="mr-mantou-android" values="Git" collectionTime="1448003104967" />
+      <project id="JamsMusicPlayer" values="Git" collectionTime="1448010433160" />
+      <project id="Event-Bus-Architecture" values="Git" collectionTime="1448588822433" />
+      <project id="Toodle" values="Git" collectionTime="1448365492446" />
+      <project id="Seashell-app" values="Git" collectionTime="1448012036905" />
+    </group>
+    <group name="frameworks">
+      <project id="Minimal-Todo" values="android-gradle,android,java-gradle" collectionTime="1448851832297" />
+      <project id="Event-Bus-Architecture" values="java-gradle,android,android-gradle" collectionTime="1448588822433" />
+      <project id="YanZhi" values="android-gradle,android,java-gradle" collectionTime="1447672801593" />
+      <project id="FragmentBasics" values="android-gradle,android,java-gradle" collectionTime="1447638350836" />
+      <project id="Timber-master" values="java-gradle,android-gradle,android" collectionTime="1448009735569" />
+      <project id="MultiModuleTest" values="android,java-gradle,android-gradle" collectionTime="1447983221334" />
+      <project id="WeChat For Android Studio" values="android,java-gradle,android-gradle" collectionTime="1448011054368" />
+      <project id="mini-todo-learn" values="java-gradle,android,android-gradle" collectionTime="1448891069786" />
+      <project id="JamsMusicPlayer" values="android-gradle,android" collectionTime="1448010433160" />
+      <project id="android-UniversalMusicPlayer" values="java-gradle,android-gradle,android" collectionTime="1448011204406" />
+      <project id="Toodle" values="android,android-gradle,java-gradle" collectionTime="1448365492446" />
+      <project id="mr-mantou-android" values="android-gradle,android,java-gradle" collectionTime="1448003104967" />
+      <project id="Meizhi" values="java-gradle,android,android-gradle" collectionTime="1448013171818" />
+      <project id="HelloWorld" values="android,android-gradle,java-gradle" collectionTime="1447742216995" />
+      <project id="Fragments" values="android,android-gradle" collectionTime="1448013449644" />
+      <project id="weiciyuan-0.50" values="android,android-gradle" collectionTime="1447742309609" />
+      <project id="ActivityLifeCycle" values="android-gradle,java-gradle,android" collectionTime="1447509219830" />
+      <project id="SimplifyReader" values="android,android-gradle,java-gradle" collectionTime="1448012542260" />
+      <project id="36krReader" values="android-gradle,java-gradle,android" collectionTime="1448013763021" />
+      <project id="Seashell-app" values="java-gradle,android-gradle,android" collectionTime="1448012036905" />
+      <project id="v2ex-android-master" values="android-gradle,android,java-gradle" collectionTime="1447991602592" />
+    </group>
+    <group name="module type">
+      <project id="Minimal-Todo" values="JAVA_MODULE" collectionTime="1448851832297" />
+      <project id="Event-Bus-Architecture" values="JAVA_MODULE" collectionTime="1448588822433" />
+      <project id="YanZhi" values="JAVA_MODULE" collectionTime="1447672801593" />
+      <project id="FragmentBasics" values="JAVA_MODULE" collectionTime="1447638350836" />
+      <project id="Timber-master" values="JAVA_MODULE" collectionTime="1448009735569" />
+      <project id="MultiModuleTest" values="JAVA_MODULE" collectionTime="1447983221334" />
+      <project id="WeChat For Android Studio" values="JAVA_MODULE" collectionTime="1448011054368" />
+      <project id="mini-todo-learn" values="JAVA_MODULE" collectionTime="1448891069786" />
+      <project id="JamsMusicPlayer" values="JAVA_MODULE" collectionTime="1448010433160" />
+      <project id="android-UniversalMusicPlayer" values="JAVA_MODULE" collectionTime="1448011204406" />
+      <project id="Toodle" values="JAVA_MODULE" collectionTime="1448365492446" />
+      <project id="mr-mantou-android" values="JAVA_MODULE" collectionTime="1448003104967" />
+      <project id="Meizhi" values="JAVA_MODULE" collectionTime="1448013171818" />
+      <project id="HelloWorld" values="JAVA_MODULE" collectionTime="1447742216995" />
+      <project id="Fragments" values="JAVA_MODULE" collectionTime="1448013449644" />
+      <project id="weiciyuan-0.50" values="JAVA_MODULE" collectionTime="1447742309609" />
+      <project id="ActivityLifeCycle" values="JAVA_MODULE" collectionTime="1447509219830" />
+      <project id="SimplifyReader" values="JAVA_MODULE" collectionTime="1448012542260" />
+      <project id="36krReader" values="JAVA_MODULE" collectionTime="1448013763021" />
+      <project id="Seashell-app" values="JAVA_MODULE" collectionTime="1448012036905" />
+      <project id="v2ex-android-master" values="JAVA_MODULE" collectionTime="1447991602592" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="Minimal-Todo" values="AndroidRunConfigurationType" collectionTime="1448851832297" />
+      <project id="Event-Bus-Architecture" values="AndroidRunConfigurationType" collectionTime="1448588822433" />
+      <project id="YanZhi" values="AndroidRunConfigurationType" collectionTime="1447672801595" />
+      <project id="FragmentBasics" values="AndroidRunConfigurationType" collectionTime="1447638350836" />
+      <project id="Timber-master" values="AndroidRunConfigurationType" collectionTime="1448009735570" />
+      <project id="MultiModuleTest" values="AndroidRunConfigurationType" collectionTime="1447983221334" />
+      <project id="WeChat For Android Studio" values="AndroidRunConfigurationType" collectionTime="1448011054369" />
+      <project id="mini-todo-learn" values="AndroidRunConfigurationType" collectionTime="1448891069787" />
+      <project id="android-UniversalMusicPlayer" values="AndroidRunConfigurationType" collectionTime="1448011204406" />
+      <project id="mr-mantou-android" values="AndroidRunConfigurationType" collectionTime="1448003104967" />
+      <project id="Meizhi" values="AndroidRunConfigurationType" collectionTime="1448013171818" />
+      <project id="HelloWorld" values="AndroidRunConfigurationType" collectionTime="1447742216995" />
+      <project id="Toodle" values="AndroidRunConfigurationType" collectionTime="1448365492446" />
+      <project id="ActivityLifeCycle" values="AndroidRunConfigurationType" collectionTime="1447509219830" />
+      <project id="SimplifyReader" values="AndroidRunConfigurationType" collectionTime="1448012542261" />
+      <project id="36krReader" values="AndroidRunConfigurationType" collectionTime="1448013763021" />
+      <project id="Seashell-app" values="AndroidRunConfigurationType" collectionTime="1448012036905" />
+      <project id="v2ex-android-master" values="AndroidRunConfigurationType" collectionTime="1447991602592" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="8" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="10" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="154" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="1" />
+      <entry feature="execute.Remote.Debug" count="1" />
+      <entry feature="ide.settings.Appearance" count="11" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="20" />
+      <entry feature="ide.settings.Console_Font" count="3" />
+      <entry feature="ide.settings.Font" count="45" />
+      <entry feature="ide.settings.HTTP_Proxy" count="2" />
+      <entry feature="ide.settings.Inspections" count="2" />
+      <entry feature="ide.settings.Java" count="1" />
+      <entry feature="ide.settings.Keymap" count="10" />
+      <entry feature="ide.settings.Live_Templates" count="2" />
+      <entry feature="ideaapp.started" count="34" />
+    </counts>
+  </component>
+</application>

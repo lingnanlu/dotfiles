@@ -1,0 +1,26 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>ge</find>
+      <find>mToDoTextBodyEditText</find>
+      <find>adapter</find>
+      <find>list_item_layout</find>
+      <find>mToDoSendFloatingActionButton</find>
+      <find>setEnterDateLayoutVisibleWithAnimations</find>
+      <find>equ</find>
+      <find>mLooper</find>
+      <find>listener</find>
+      <find>mUserEnteredText</find>
+      <find>mUserColor</find>
+      <find>upArrow</find>
+      <find>makeResult</find>
+      <find>onCreateO</find>
+      <find>AsyncTask</find>
+      <find>findview</find>
+      <find>loadData</find>
+      <find>upArr</find>
+      <find>mCh</find>
+      <find>set</find>
+    </findStrings>
+  </component>
+</application>

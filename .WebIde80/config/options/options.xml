@@ -1,0 +1,31 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt3.8" value="19" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.multiCaretsEnabled" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="file.chooser.recent.files" value="Z:/talkbility&#10;Y:/smartclothingcloud&#10;Y:/talkbility&#10;Y:/Event Conference Meetup Landing Template - Gather/Event Conference Meetup Landing Template - Gather/HTML&#10;Y:/Event Conference Meetup Landing Template - Gather/Event Conference Meetup Landing Template - Gather&#10;Y:/Event Conference Meetup Landing Template - Gather&#10;Y:/laravel_test&#10;Y:/opencloud&#10;Z:/smartclothingcloud&#10;Z:/smartcloth&#10;Y:/test&#10;Z:/opencloud&#10;Z:/basic&#10;H:/tmp/learing-laravel-5&#10;Z:/test&#10;H:/tmp/test&#10;C:/Users/Administrator/Downloads/yii-advanced-app-2.0.4/advanced&#10;E:/yii_project_test&#10;E:/learing-laravel-5&#10;D:/wamp/bin/php/php5.5.12&#10;E:/test0&#10;D:/blog&#10;D:/blog-deployed&#10;D:/wamp/bin/php/php5.5.12/php.exe&#10;D:/" />
+    <property name="COMPOSER_PACKAGE_FILTER" value="symfony/sym&#10;barryvdh/laravel-ide-helper&#10;symfony/symfony" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="PLUGIN_FILTER" value="vim&#10;colors" />
+    <property name="KEYMAP" value="split&#10;close tab&#10;close window&#10;import&#10;Move Caret to Line End" />
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
+    <property name="FileTemplates.SelectedTemplate" value="PHP Class" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="FindSplitterProportion" value="0.25" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="ColorChooser.RecentColors" value="255-255-255-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+  </component>
+</application>

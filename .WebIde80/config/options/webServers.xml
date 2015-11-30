@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1ecdf881-35fe-45f3-ae81-7b6e3a3119da" name="myblog" url="http://localhost">
+        <fileTransfer mountedRoot="D:\blog-deployed" accessType="MOUNT" />
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>

@@ -1,0 +1,34 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="303" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="674" y="375" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="521" y="262" />
+    <location key="OptionsEditor.0.0.1920.1080" x="563" y="200" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="233" y="224" />
+    <location key="ComposerInitDialogKey.0.0.1920.1080" x="753" y="454" />
+    <location key="ComposerAddDependencyOutputPopupDimensionServiceKey.0.0.1920.1080" x="798" y="377" />
+    <location key="PHPComposerAddDependencyDialogDimensionKey.0.0.1920.1080" x="718" y="351" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1920.1080" x="619" y="290" />
+    <location key="#Plugins.0.0.1920.1080" x="63" y="206" />
+    <location key="StructurePopup.0.0.1920.1080" x="761" y="521" />
+    <location key="NewPhpClassDialog.0.0.1920.1080" x="299" y="380" />
+    <location key="#Interpreters.0.0.1920.1080" x="610" y="258" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="223" y="343" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="418" y="203" />
+    <location key="findTextDialog.0.0.1920.1080" x="273" y="296" />
+    <location key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#.0.0.1920.1080" x="263" y="462" />
+    <location key="#PHP.0.0.1920.1080" x="704" y="227" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" x="1194" y="373" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="693" y="271" />
+    <size key="ComposerAddDependencyOutputPopupDimensionServiceKey.0.0.1920.1080" width="380" height="2158" />
+    <size key="PHPComposerAddDependencyDialogDimensionKey.0.0.1920.1080" width="541" height="467" />
+    <size key="StructurePopup.0.0.1920.1080" width="428" height="535" />
+    <size key="OptionsEditor.0.0.1920.1080" width="1210" height="850" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="950" height="375" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="950" height="375" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="950" height="375" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="950" height="375" />
+    <size key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#.0.0.1920.1080" width="434" height="200" />
+    <size key="javadoc.popup.0.0.1920.1080" width="446" height="166" />
+  </component>
+</application>

@@ -1,0 +1,187 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type-temp">
+      <project id="test0" values="JavascriptDebugType" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="SymfonyProject" values="not installed" />
+      <project id="advanced" values="not installed" />
+      <project id="basic" values="not installed" />
+      <project id="test0" values="5.5.12" />
+      <project id="HTML" values="not installed" />
+      <project id="learing-laravel-5" values="not installed" />
+      <project id="blog" values="not installed" />
+      <project id="opencloud" values="not installed" />
+      <project id="test" values="not installed" />
+      <project id="yii_project_test" values="not installed" />
+      <project id="talkbility" values="not installed" />
+      <project id="Event Conference Meetup Landing Template - Gather" values="not installed" />
+      <project id="smartcloth" values="not installed" />
+      <project id="untitled" values="not installed" />
+    </group>
+    <group name="php-servers">
+      <project id="SymfonyProject" values="0" />
+      <project id="advanced" values="0" />
+      <project id="basic" values="0" />
+      <project id="test0" values="0" />
+      <project id="HTML" values="0" />
+      <project id="learing-laravel-5" values="0" />
+      <project id="blog" values="0" />
+      <project id="opencloud" values="0" />
+      <project id="test" values="0" />
+      <project id="yii_project_test" values="0" />
+      <project id="talkbility" values="0" />
+      <project id="Event Conference Meetup Landing Template - Gather" values="0" />
+      <project id="smartcloth" values="0" />
+      <project id="untitled" values="0" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="SymfonyProject" values="DEFAULT" />
+      <project id="advanced" values="DEFAULT" />
+      <project id="basic" values="DEFAULT" />
+      <project id="test0" values="DEFAULT" />
+      <project id="HTML" values="DEFAULT" />
+      <project id="learing-laravel-5" values="DEFAULT" />
+      <project id="blog" values="DEFAULT" />
+      <project id="opencloud" values="DEFAULT" />
+      <project id="test" values="DEFAULT" />
+      <project id="yii_project_test" values="DEFAULT" />
+      <project id="talkbility" values="DEFAULT" />
+      <project id="Event Conference Meetup Landing Template - Gather" values="DEFAULT" />
+      <project id="smartcloth" values="DEFAULT" />
+      <project id="untitled" values="DEFAULT" />
+    </group>
+    <group name="php-interpreter-debug-ext">
+      <project id="test0" values="xdebug" />
+    </group>
+    <group name="deployment server">
+      <project id="blog" values="MOUNT" />
+      <project id="opencloud" values="MOUNT" />
+      <project id="learing-laravel-5" values="MOUNT" />
+      <project id="test" values="MOUNT" />
+      <project id="Event Conference Meetup Landing Template - Gather" values="MOUNT" />
+      <project id="talkbility" values="MOUNT" />
+      <project id="advanced" values="MOUNT" />
+      <project id="test0" values="MOUNT" />
+      <project id="smartcloth" values="MOUNT" />
+      <project id="yii_project_test" values="MOUNT" />
+      <project id="SymfonyProject" values="MOUNT" />
+      <project id="basic" values="MOUNT" />
+      <project id="HTML" values="MOUNT" />
+    </group>
+    <group name="php-interpreters">
+      <project id="SymfonyProject" values="0" />
+      <project id="advanced" values="1" />
+      <project id="basic" values="1" />
+      <project id="test0" values="1" />
+      <project id="HTML" values="1" />
+      <project id="learing-laravel-5" values="1" />
+      <project id="blog" values="0" />
+      <project id="opencloud" values="1" />
+      <project id="test" values="1" />
+      <project id="yii_project_test" values="1" />
+      <project id="talkbility" values="1" />
+      <project id="Event Conference Meetup Landing Template - Gather" values="1" />
+      <project id="smartcloth" values="1" />
+      <project id="untitled" values="0" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="SymfonyProject" values="Project,Project" />
+      <project id="advanced" values="Project,Project" />
+      <project id="basic" values="Project,Project" />
+      <project id="test0" values="Project,Project" />
+      <project id="HTML" values="Project,Project" />
+      <project id="learing-laravel-5" values="Project,Project" />
+      <project id="blog" values="Project,Project" />
+      <project id="opencloud" values="Project,Project" />
+      <project id="test" values="Project,Project" />
+      <project id="yii_project_test" values="Project,Project" />
+      <project id="talkbility" values="Project,Project" />
+      <project id="Event Conference Meetup Landing Template - Gather" values="Project,Project" />
+      <project id="smartcloth" values="Project,Project" />
+      <project id="untitled" values="Project,Project" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="SymfonyProject" values="0" />
+      <project id="advanced" values="0" />
+      <project id="basic" values="0" />
+      <project id="test0" values="0" />
+      <project id="HTML" values="0" />
+      <project id="learing-laravel-5" values="0" />
+      <project id="blog" values="0" />
+      <project id="opencloud" values="0" />
+      <project id="test" values="0" />
+      <project id="yii_project_test" values="0" />
+      <project id="talkbility" values="0" />
+      <project id="Event Conference Meetup Landing Template - Gather" values="0" />
+      <project id="smartcloth" values="0" />
+      <project id="untitled" values="0" />
+    </group>
+    <group name="file-type">
+      <project id="SymfonyProject" values="YAML,UNKNOWN,SQL,Twig,TypeScript,Ini,Locale,XML,PLAIN_TEXT,PHAR,C++,CSS,Images,JSON,HTML,PHP" />
+      <project id="advanced" values="ReST,PHP,SQL,PLAIN_TEXT,HTML,JSHint,XML,CSS,SourceMap,YAML,ARCHIVE,Images,UNKNOWN,Ini,JavaScript,htaccess,CoffeeScript,DTD,JSON,LESS,JSCS,PATCH" />
+      <project id="basic" values="DTD,PHP,SourceMap,CSS,ARCHIVE,JSON,JSHint,PLAIN_TEXT,Images,YAML,htaccess,JavaScript,SQL,UNKNOWN,ReST,PATCH,HTML,LESS,Ini,XML" />
+      <project id="test0" values="Ini,PLAIN_TEXT,ReST,Cucumber,C++,Blade,TypeScript,ARCHIVE,Images,HTML,CSS,PHP,JavaScript,htaccess,UNKNOWN,LESS,YAML,JSON,XML,Locale" />
+      <project id="HTML" values="Images,CSS,PLAIN_TEXT,HTML,XML,UNKNOWN,JavaScript,PHP" />
+      <project id="learing-laravel-5" values="ReST,Locale,CoffeeScript,htaccess,PATCH,SQLite Database,JSON,Cucumber,Ini,UNKNOWN,PLAIN_TEXT,ARCHIVE,PHP,TypeScript,JSCS,ESLint,JSHint,JavaScript,HTML,YAML,LESS,CSS,Images,XML,Blade,C++" />
+      <project id="blog" values="JavaScript,CSS,htaccess,Images,PHP,LESS,PLAIN_TEXT,YAML,JSON,PHAR,XML,Blade,UNKNOWN" />
+      <project id="opencloud" values="UNKNOWN" />
+      <project id="test" values="Blade,JSHint,JSON,ESLint,YAML,PATCH,Cucumber,PLAIN_TEXT,UNKNOWN,SCSS,CoffeeScript,Locale,CSS,XML,LESS,Images,JSCS,Ini,Literate CoffeeScript,HTML,htaccess,SASS,PHP,ARCHIVE,SourceMap,SmartyConfig,JavaScript,TypeScript,ReST,C++" />
+      <project id="yii_project_test" values="YAML,UNKNOWN,PLAIN_TEXT,PHP,JSON,Images,XML,CSS" />
+      <project id="talkbility" values="ARCHIVE,JavaScript,SQLite Database,ReST,JSON,YAML,Images,C++,PHP,UNKNOWN,PLAIN_TEXT,CSS,htaccess,Blade,Ini,Cucumber,Locale,XML,HTML,SCSS,TypeScript" />
+      <project id="Event Conference Meetup Landing Template - Gather" values="UNKNOWN,SourceMap,JSON,Images,CSS,PLAIN_TEXT,JavaScript,HTML,PHP,XML" />
+      <project id="smartcloth" values="UNKNOWN,htaccess,PHP,Cucumber,Blade,Twig,XML,JavaScript,ARCHIVE,CSS,YAML,Ini,PLAIN_TEXT,C++,SQL,ReST,JSON,HTML,TypeScript,SCSS,Images,Locale" />
+      <project id="untitled" values="UNKNOWN,PLAIN_TEXT,XML" />
+    </group>
+    <group name="module type">
+      <project id="SymfonyProject" values="WEB_MODULE" />
+      <project id="advanced" values="WEB_MODULE" />
+      <project id="basic" values="WEB_MODULE" />
+      <project id="test0" values="WEB_MODULE" />
+      <project id="HTML" values="WEB_MODULE" />
+      <project id="learing-laravel-5" values="WEB_MODULE" />
+      <project id="blog" values="WEB_MODULE" />
+      <project id="opencloud" values="WEB_MODULE" />
+      <project id="test" values="WEB_MODULE" />
+      <project id="yii_project_test" values="WEB_MODULE" />
+      <project id="talkbility" values="WEB_MODULE" />
+      <project id="Event Conference Meetup Landing Template - Gather" values="WEB_MODULE" />
+      <project id="smartcloth" values="WEB_MODULE" />
+      <project id="untitled" values="WEB_MODULE" />
+    </group>
+    <group name="php-include-path">
+      <project id="SymfonyProject" values="23" />
+      <project id="advanced" values="0" />
+      <project id="basic" values="0" />
+      <project id="test0" values="0" />
+      <project id="HTML" values="0" />
+      <project id="learing-laravel-5" values="0" />
+      <project id="blog" values="53" />
+      <project id="opencloud" values="0" />
+      <project id="test" values="0" />
+      <project id="yii_project_test" values="0" />
+      <project id="talkbility" values="0" />
+      <project id="Event Conference Meetup Landing Template - Gather" values="0" />
+      <project id="smartcloth" values="0" />
+      <project id="untitled" values="0" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="32" />
+      <entry feature="NewDirectoryProjectAction.Composer Project" count="2" />
+      <entry feature="NewDirectoryProjectAction.empty" count="1" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="1" />
+      <entry feature="ide.settings.Appearance" count="33" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="39" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="1" />
+      <entry feature="ide.settings.Font" count="27" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Keymap" count="6" />
+      <entry feature="ide.settings.PHP" count="2" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ideaapp.started" count="46" />
+    </counts>
+  </component>
+</application>
